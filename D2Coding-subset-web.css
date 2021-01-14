@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'D2Coding-Subset';
+  font-weight: 400;
+  src: local('D2Coding'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/font/D2Coding-Subset.woff2') format('woff2'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/font/D2Coding-Subset.woff') format('woff');
+}
+@font-face {
+  font-family: 'D2Coding-Subset';
+  font-weight: 700;
+  src: local('D2Coding'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/font/D2CodingBold-Subset.woff2') format('woff2'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/font/D2CodingBold-Subset.woff') format('woff');
+}

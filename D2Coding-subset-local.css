@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'D2Coding-subset';
+  font-weight: 400;
+  src: local('D2Coding'),
+       url('font/D2Coding-subset.woff2') format('woff2'),
+       url('font/D2Coding-subset.woff') format('woff');
+}
+@font-face {
+  font-family: 'D2Coding-subset';
+  font-weight: 700;
+  src: local('D2Coding'),
+       url('font/D2CodingBold-subset.woff2') format('woff2'),
+       url('font/D2CodingBold-subset.woff') format('woff');
+}
