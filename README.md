@@ -42,3 +42,6 @@
 개인적으로 ['스포카 한 산스'](https://spoqa.github.io/spoqa-han-sans/ko-KR/)를 직접 서브셋으로 만들어 쓰시는 것도 좋다고 생각합니다. 마침 [이 글](https://spoqa.github.io/2017/02/15/using-shs-as-webfonts.html)에 서브셋을 만드는 법에 대해 간략하게 소개하고 있네요.
   
 도움이 된 글: [웹폰트 경량화](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
+
+## 원본 라이선스
+원본 폰트인 [D2 Coding](https://github.com/naver/d2codingfont) 폰트는 [SIL Open Font License, Version 1.1](https://github.com/naver/d2codingfont/wiki/Open-Font-License)하에 배포되었습니다.
