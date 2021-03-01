@@ -14,7 +14,7 @@
 <link href="/path/to/D2Coding-subset-local.css" rel="stylesheet">
 ```
 ```css
-@import url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/D2Coding-subset-web.css')
+@import url('//cdn.jsdelivr.net/gh/teamYOMI/D2Coding-subset/D2Coding-subset-web.css');
 ```
 이후 `font-family`에서 `D2Coding-subset`을 사용하시면 됩니다.
 
